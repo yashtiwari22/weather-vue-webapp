@@ -107,7 +107,7 @@ body {
 main {
     min-height: 100vh;
     padding: 25px;
-    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.75));
+    background-image: linear-gradient(to bottom, rgba(37, 37, 37, 0.15), rgba(0, 0, 0, 0.75));
 }
 
 .search-box {
