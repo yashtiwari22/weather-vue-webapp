@@ -1,4 +1,5 @@
 <template>
+    <!-- this is a weather detection app -->
 <div id="weather" :class="istem? 'cold' : 'warm' ">
     <main>
         <div class="search-box">
@@ -20,8 +21,8 @@
 </template>
 
 <script>
-// import axios from 'axios'
 
+//script and api 
 export default {
     name: 'App',
     data() {
